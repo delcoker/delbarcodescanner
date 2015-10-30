@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.norvorj.pg2" versionCode="11" version="1.2.0">	
+    <!-- versionCode is optional and Android only -->	
+    <name>
+        Del-BarcodeScanner
+    </name>	
+    <description>	
+        Demo 2 for MWC fall 2015	
+    </description>	
+    <author href="http://www.ashesi.edu.gh" email="delcoker@gmail.com">	
+        Kingston Coker		
+    </author>	
+    <icon src="icon.png"/>
+    <gap:splash src="splash.png"/>
+    <gap:plugin name="com.phonegap.plugins.barcodescanner" version="2.2.0"/>
+</widget>
